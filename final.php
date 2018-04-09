@@ -57,7 +57,7 @@ $total = $exm->getTotalRows();
 						</tr>
 						<tr>
 						  <td><strong>Số lần Làm Bài:</strong></td>
-						  <td><strong><?php echo $showScore['attempt'];?></strong></td>
+						  <td><strong><?php echo 1;?></strong></td>
 						</tr>
 						<tr>
 						  <td><strong>Tổng điểm:</strong></td>
