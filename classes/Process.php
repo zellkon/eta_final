@@ -36,7 +36,7 @@ class Process
 		{
 			$_SESSION['score']++;
 		}
-		if($times == 1)
+		if($times == 20)
 		{
 			header('Location: final.php');
 			exit;
