@@ -62,7 +62,7 @@
                                
 							   
 							   <span class="member-or">VUI LÒNG ĐĂNG KÝ TRƯỚC KHI ĐĂNG NHẬP</span>
-							   <a>VD: Nguyễn Văn A_145234_LOP10_0976543211</a>
+							   <a>VD: Nguyen Van A_145234_LOP10_0976543211</a>
 							   <input type="text" id="regUserName" class="form-control" placeholder="Họ Tên_MSSV_Lớp_SDT">
 							   <a>VD: nguyenvana@gmail.com</a>
 							   <input type="text" id="regEmail" class="form-control" placeholder="Nhập Email cần đăng ký">
