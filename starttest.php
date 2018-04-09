@@ -26,7 +26,7 @@ $total = $exm->getTotalRows();
                     </div><!--/.q-timer-bar-->
                     
 					<ul>
-						<li><h2>Có 20 câu hỏi , thời gian làm bài là 30 phút.Mỗi câu hỏi chỉ làm 1 lần và không được sửa,nên các bạn lưu ý phải làm kỹ từng câu.</h2></li>
+						<li><h2>Có 20 câu hỏi , thời gian làm bài là 20 phút.Mỗi câu hỏi chỉ làm 1 lần và không được sửa,nên các bạn lưu ý phải làm kỹ từng câu.</h2></li>
 						<!--<li>You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. Maximum score is 60 points.</li>
 						<li>You can never go back once you clicked the next button, so be careful.</li>
 						<li>Good Luck for your success.</li>-->
