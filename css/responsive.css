@@ -1,0 +1,121 @@
+@media (min-width : 480px) {
+	
+.member-form-wrap{
+		padding:0 12vmax;
+	}
+	
+}
+
+@media (min-width : 544px) {
+	
+}
+
+@media (min-width : 768px) {
+
+.main-nav-wrap{
+	text-align:right;
+	}
+	
+}
+
+@media (min-width : 992px) {
+
+}
+
+@media (min-width : 1200px) {
+
+}
+
+@media (min-width : 1250px) {
+
+}
+
+/* ===== Non Mobile First ===== */
+
+@media (max-width : 1249px) {
+
+}
+
+@media (max-width : 1199px) {
+
+}
+
+@media (max-width : 991px) {
+	
+.coltl-self{
+	width:30%;
+}
+
+.coltl-posts{
+	width:50%;
+}
+
+.coltl-ads{
+	display:none;
+}
+
+.coltl-chat{
+	width:20%;
+}
+
+}
+
+@media (max-width : 767px) {
+
+.coltl-self{
+	width:100%;
+}
+
+.coltl-posts{
+	width:100%;
+}
+
+.coltl-ads{
+	display:none;
+}
+
+.coltl-chat{
+	display:none;
+}
+
+.header-wrap {
+    padding: 8px 0 0 0;
+}
+
+.main-nav-col {
+    padding-top: 10px;
+	background-color: #39bad4;
+    margin-top: 10px;
+}
+
+.main-nav-wrap .btn-group .btn {
+    padding-bottom: 8px;
+}
+
+.main-nav-wrap .btn-group {
+    margin-right: 30px;
+}
+.timeline-cols-wrap{
+	padding-top:93px;
+	}	
+}
+
+@media (max-width : 543px) {
+
+.zm-brand {
+    margin: 0 10px 0 0;
+}
+
+}
+
+@media (max-width : 479px) {
+
+}
+
+
+/* ===== Double Media Quries ===== */
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+	
+}
